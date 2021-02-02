@@ -1,0 +1,71 @@
+
+body{
+    background-color: #f5dbda;
+    font-family: 'Special Elite', cursive;
+}
+
+.header{
+    background-color: white;
+    color: #ce2700;
+    box-shadow: 20px 5px 100px white;
+}
+
+.logo_img{
+    width: 100px;
+}
+
+.main_div{
+    background-color: #ffd2c7;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.webcam_label{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 0px;
+    width: 310px;
+    box-shadow: 5px 5px 18px white;
+    font-size: 16px;
+}
+
+#camera, #result{
+    border: 2px solid white;
+    width: 305px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.button_capture, .button_identify{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+.object_div img{
+    width: 70px;
+}
+
+.object_div{
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.object_div h4{
+    background-color: white;
+    box-shadow: 5px 5px 18px white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.copy_right_div{
+    position: fixed;
+    background-color: #f5f5f5;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
